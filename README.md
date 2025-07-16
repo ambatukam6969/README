@@ -55,11 +55,9 @@
 
 ---
 
-### 😎 Mood Board / Meme Zone
+### Fokus Ngoding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="ngoding" width="200"/>
-  <img src="https://media.giphy.com/media/xTiTnzGFGsS7K9U6dy/giphy.gif" alt="kopi coding" width="200"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c4eXZmdGE4aXZlZ2J2bXNyODN6bzEybXZoY2d5emc0a2h6ODJldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" alt="cat hacker" width="200"/>
 </p>
 
