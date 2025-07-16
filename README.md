@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambatukam1691" alt="ambatukam1691" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambatukam6969" alt="ambatukam6969" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Daffa Aditya Pratama</h1>
@@ -69,19 +69,19 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ambatukam1691&show_icons=true&theme=dracula&line_height=27&hide_border=true" alt="ambatukam1691's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ambatukam6969&show_icons=true&theme=dracula&line_height=27&hide_border=true" alt="ambatukam1691's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambatukam1691&layout=compact&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambatukam6969&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=ambatukam1691&bg_color=282a36&color=ff79c6&line=ffb86c&point=bd93f9&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambatukam1691&bg_color=282a36&color=ff79c6&line=ffb86c&point=bd93f9&area=true&hide_border=true" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=ambatukam6969&bg_color=282a36&color=ff79c6&line=ffb86c&point=bd93f9&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambatukam6969&bg_color=282a36&color=ff79c6&line=ffb86c&point=bd93f9&area=true&hide_border=true" />
   </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambatukam1691&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambatukam6969&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ambatukam1691&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ambatukam6969&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" />
   </a>
 </p>
 
@@ -116,6 +116,6 @@ Saya menikmati berbagai macam anime! Beberapa favorit saya:
 ### 🔗 Mari Terhubung
 
 <p align="center">
-<a href="https://www.instagram.com/akun_instagram_anda" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:ganti.dengan.email.anda@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.instagram.com/rieze16_instagram_anda" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:3kdiasforyou@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
